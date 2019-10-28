@@ -29,7 +29,7 @@ ul { list-style: none; }
 img { max-width: 100%; border: none; vertical-align: middle; }
 small { font-size: .75px; color: #EEE; }
 a { text-decoration: none; color: #000000d8; transition: all .2s linear; }
-a:hover { color: #333; }
+a:hover { color: #0d2192; }
 a img { border: 0; }
 
 /***********************************
@@ -68,7 +68,7 @@ iframe['style'] { max-width: 100%; height: auto; }
 .font2b { font-size: 2.5em; }
 .font3 { font-size: 3em; }
 .font3b { font-size: 3.5em; }
-.font4 { font-size: 4em; }
+.font4 { font-size: 3em; }
 .font4b { font-size: 4.5em; }
 
 /***********************************
